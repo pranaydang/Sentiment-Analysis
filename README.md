@@ -18,4 +18,4 @@ I found that the data was imbalanced in favour of the neutral sentiment, so I us
 
 ## Final result
 
-I observed a training accuracy of 82.8% and a test accuracy of 78.4%, which is lacklustre to say the least. On talking to a superbisor at work, I found out that they have also been getting bad results on GPU accelerated classification models such as these, the reason, I'll have to explore!
+I observed a training accuracy of 82.8% and a test accuracy of 78.4%, which is lacklustre to say the least. On talking to a supervisor at work, I found out that they have also been getting bad results on GPU accelerated classification models such as these, the reason, I'll have to explore!
